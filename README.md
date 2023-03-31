@@ -4,7 +4,7 @@ This model detects cataract in the eye with an input image and outputs into `nam
 
 ## To Do
 
-- [ ] Read Research Paper
+- [x] Read Research Paper
 - [ ] design model
 
 ## The Problem Description
