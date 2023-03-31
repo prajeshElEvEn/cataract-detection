@@ -12,9 +12,9 @@ This model detects cataract in the eye with an input image and outputs into `nam
 The labels of this dataset consists of 3 categories, 5 types and 5 grades. It can be 75 multi-labels.
 
 - Category
-  - point-like corneal ulcers
-  - point-flaky mixed corneal ulcers
-  - flaky corneal ulcers
+  - category 0 : point-like corneal ulcers
+  - category 1 : point-flaky mixed corneal ulcers
+  - category 2 : flaky corneal ulcers
 - Types
   - type 0 : No ulcer of the corneal epithelium
   - type 1 : Micro punctuate
@@ -36,6 +36,7 @@ The labels of this dataset consists of 3 categories, 5 types and 5 grades. It ca
 ## Models
 
 - [model_one.h5](https://youtu.be/jztwpsIzEGc)
+- [model_two.h5](https://youtu.be/hraKTseOuJA)
 
 ## Reference
 
