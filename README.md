@@ -28,6 +28,12 @@ The labels of this dataset consists of 3 categories, 5 types and 5 grades. It ca
   - grade 3 : Corneal ulcers involve three or four surrounding quadrants
   - grade 4 : Corneal ulcers involve the central optical zone of the cornea
 
+## Research
+
+- Multi-label classification: One image can have multiple labels.
+- Multi-class classification: One label can have multiple classes.
+- Our Model is supposed to be a multi-label multi-class classification model.
+
 ## Important Links
 
 - [Dataset](https://drive.google.com/file/d/1y7wpvjf9iF3l2u_epeprl6hQFcfMvH5O/view)
